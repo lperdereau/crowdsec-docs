@@ -21,6 +21,7 @@ Name | Type | Stream | One-shot
 [Kafka](/data_sources/kafka.md)| read logs from kafka topic | yes | no
 [Windows Event](/data_sources/windows_event_log.md)| read logs from windows event log | yes | no
 [Kubernetes Audit](/data_sources/kubernetes_audit.md) | expose a webhook to receive audit logs from a Kubernetes cluster  | yes | no
+[Loki](/data_sources/loki.md)| read logs from a Loki | yes | yes
 [S3](/data_sources/s3.md)| read logs from a S3 bucket | yes | yes
 
 

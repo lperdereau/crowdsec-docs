@@ -212,6 +212,7 @@ module.exports = {
                 "data_sources/windows_evt_log",
                 "data_sources/kafka",
                 "data_sources/kubernetes_audit",
+                "data_sources/loki",
                 "data_sources/s3",
                 "data_sources/troubleshoot",
             ],
